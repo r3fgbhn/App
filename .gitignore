@@ -1,2 +1,7 @@
-# Google App Engine generated folder
-appengine-generated/
+.gradle/
+.idea/
+bouncy-castle-examples.iml
+build/
+.DS_Store
+out/
+gradle.properties
